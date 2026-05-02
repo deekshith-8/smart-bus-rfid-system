@@ -29,7 +29,7 @@ Data is stored in Firebase with:
 - Student ID
 - Time
 
-- ## 📸 Project Demo
+## 📸 Project Demo
 
 ### 🔧 Hardware Setup
 ![Setup](images/setup.jpg)
@@ -42,8 +42,3 @@ Data is stored in Firebase with:
 
 ### ☁️ Firebase Data
 ![Firebase](images/firebase.png)
-
-## 🚀 Future Improvements
-- Mobile app dashboard
-- GPS tracking
-- Notifications to parents
