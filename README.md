@@ -29,6 +29,20 @@ Data is stored in Firebase with:
 - Student ID
 - Time
 
+- ## 📸 Project Demo
+
+### 🔧 Hardware Setup
+![Setup](images/setup.jpg)
+
+### 📡 RFID Scanning
+![Scan](images/scan.jpg)
+
+### 💻 Serial Output
+![Serial](images/serial.png)
+
+### ☁️ Firebase Data
+![Firebase](images/firebase.png)
+
 ## 🚀 Future Improvements
 - Mobile app dashboard
 - GPS tracking
